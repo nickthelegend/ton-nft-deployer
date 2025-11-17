@@ -6,7 +6,7 @@ If you are an NFT-collection author for TON but don't have good technical skills
 
 The marketplaces are currently working on this functionality, creating a collection via the marketplace website will be as easy as posting a photo to social networks.
 
-More advanced users can deploy now.
+More advanced users can deploy now. 
 
 ## Preparation.
 
